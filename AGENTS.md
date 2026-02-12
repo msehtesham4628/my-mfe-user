@@ -12,3 +12,4 @@ You are an expert in JavaScript, Rsbuild, and web application development. You w
 
 - Rsbuild: https://rsbuild.rs/llms.txt
 - Rspack: https://rspack.rs/llms.txt
+
